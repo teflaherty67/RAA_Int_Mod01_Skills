@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_Int_Mod01_Skills - Command 1</Text>
+    <Description>Some description for RAA_Int_Mod01_Skills</Description>
+    <Assembly>RAA_Int_Mod01_Skills.dll</Assembly>
+    <FullClassName>RAA_Int_Mod01_Skills.Command1</FullClassName>
+    <ClientId>629be67f-cffb-4691-9fa4-36aa21cb545c</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_Int_Mod01_Skills - Command 2</Text>
+    <Description>Some description for RAA_Int_Mod01_Skills</Description>
+    <Assembly>RAA_Int_Mod01_Skills.dll</Assembly>
+    <FullClassName>RAA_Int_Mod01_Skills.Command2</FullClassName>
+    <ClientId>d4ffece5-fee3-48af-b6de-9d76b976be0d</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_Int_Mod01_Skills</Name>
+    <Assembly>RAA_Int_Mod01_Skills.dll</Assembly>
+    <FullClassName>RAA_Int_Mod01_Skills.App</FullClassName>
+    <ClientId>b7019338-e95d-4265-aa28-a566d266d64d</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
